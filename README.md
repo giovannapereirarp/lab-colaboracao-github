@@ -1,1 +1,1 @@
-# lab-colaboracao-github
+Este projeto é um exmplo de colaboração
