@@ -1,1 +1,1 @@
-Este projeto é um exmplo de colaboração
+Este projeto é um exemplo de colaboração
